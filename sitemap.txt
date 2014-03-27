@@ -1,7 +1,12 @@
----
-# Remember to set production_url in your _config.yml file!
----
-{% for page in site.pages %}
-{{ site.production_url }}{{ page.url }}{% endfor %}
-{% for post in site.posts %}
-{{ site.production_url }}{{ post.url }}{% endfor %}
+
+http://nickpinkert.github.io/archive.html
+http://nickpinkert.github.io/atom.xml
+http://nickpinkert.github.io/categories.html
+http://nickpinkert.github.io/id_rsa_nick
+http://nickpinkert.github.io/index.html
+http://nickpinkert.github.io/pages.html
+http://nickpinkert.github.io/rss.xml
+http://nickpinkert.github.io/sitemap.txt
+http://nickpinkert.github.io/tags.html
+
+http://nickpinkert.github.io/lessons/2011/12/29/jekyll-introduction
